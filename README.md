@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Pérez
 
-<!--
-**iturbide-lbp/iturbide-lbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrollo de software y la resolución de problemas.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo: **Python y Bases de Datos**.
+Mis próximos objetivos: Aprender **Desarrollo Web (HTML/CSS/JS)**.
+Pregúntame sobre: **Soporte técnico, redes y macros de Excel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Habilidades Técnicas
+
+**Lenguajes: ** Python, Java, HTML.
+- **Herramientas: ** Excel Avanzado, LaTeX, Git.
+- **Sistemas Operativos: ** Windows, Linux (básico).
+
+##Cómo contactarme
+- **Correo:** juan.perez@ejemplo.com
+- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/tu-perfil)
