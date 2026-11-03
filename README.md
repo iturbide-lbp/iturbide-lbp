@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Pérez
+# ¡Hola! Soy Amaia Lopez.
 
 ## Sobre mí
 Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrollo de software y la resolución de problemas.
