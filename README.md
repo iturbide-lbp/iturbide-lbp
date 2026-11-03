@@ -14,5 +14,5 @@ Pregúntame sobre: **Soporte técnico, redes y macros de Excel**.
 - **Sistemas Operativos: ** Windows, Linux (básico).
 
 ##Cómo contactarme
-- **Correo:** juan.perez@ejemplo.com
-- **LinkedIn:** [Mi perfil](https://www.linkedin.com/in/tu-perfil)
+- **Correo:** iturbidelopezmelanie@gmail.com
+- **LinkedIn:** [Mi perfil](https://github.com/iturbide-lbp)
