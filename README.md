@@ -1,9 +1,9 @@
-# ¡Hola! Soy Amaia Lopez.
+# ¡Hola! ✌️Soy Amaia Lopez.
 
 ## Sobre mí
 Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrollo de software y la resolución de problemas.
 
-Actualmente estoy aprendiendo: **Python y Bases de Datos**.
+🐍Actualmente estoy aprendiendo: **Python y Bases de Datos**.
 Mis próximos objetivos: Aprender **Desarrollo Web (HTML/CSS/JS)**.
 Pregúntame sobre: **Soporte técnico, redes y macros de Excel**.
 
